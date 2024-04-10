@@ -107,16 +107,4 @@ $ yarn ios
 - [@mauron85](https://www.npmjs.com/package/@mauron85/react-native-background-geolocation) - React-native background geolocation
 - [React-Native-Linear-Gradient](https://github.com/react-native-community/react-native-linear-gradient) - Gradient Styles
 
-## Contributing
-
-You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
-
-Email-me: ilove.delicious.pizza@gmail.com
-
-
-Thank you!
-
-![Screenshot](./images/readme/taxiApp3.png "Screenshot")
-
-![Screenshot](./images/readme/taxiApp4.png "Screenshot")
 
